@@ -7,17 +7,17 @@ A REST API for managing author royalties, earnings tracking, and withdrawal requ
 ### 🔗 Live API
 
 👉 **Deployed URL:**
-[https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+[https://authors-royalties.onrender.com](https://authors-royalties.onrender.com)
 
 Example test endpoint:
-[https://your-app-name.onrender.com/authors](https://your-app-name.onrender.com/authors)
+[https://authors-royalties.onrender.com/authors](https://authors-royalties.onrender.com/authors)
 
 ---
 
 ### 💻 GitHub Repository
 
 👉 **Source Code:**
-[https://github.com/your-username/author-royalty-api](https://github.com/your-username/author-royalty-api)
+[https://github.com/Janvi-chauhan/Authors-royalties](https://github.com/Janvi-chauhan/Authors-royalties)
 
 ---
 
